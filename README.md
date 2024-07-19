@@ -1,5 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Thomas! 👋 <br/></h1>
+I have a background in Mechanical Engineering and I'm interested in Data Analytics and Data Science.
 
+Feel free to check out my projects below.
+
+<h2>👨‍💻 Data Analysis Projects:</h2>
+
+
+  - [Pesticide use around the world from 1990 to 2021](https://github.com/Th0Di/PesticideUse)
 <!--
 **Th0Di/Th0Di** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
